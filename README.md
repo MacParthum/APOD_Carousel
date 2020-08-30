@@ -3,8 +3,8 @@ A bootstrap carousel I added NASA Astronomy Picture of the day Archive photos to
 
 ## Screen Shot
 
-![Screen Shot](images\screenshot.gif)
+![Screen Shot](images/screenshot.gif)
 
 ## Deployed Site
 
-https://macparthum.github.io/APOD_Slideshow/
+https://macparthum.github.io/APOD_Carousel/
